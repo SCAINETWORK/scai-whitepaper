@@ -23,7 +23,7 @@ This repository does not publish private bot source code, execution logic, crede
 ## Official Links
 
 - Website: https://scainetwork.com
-- Main public repository: https://github.com/SCAI-NETWORK/Official-public-repository-for-SCAI-Social-AI-Network-documentation-roadmap-and-transparency-updates
+- Main public repository: https://github.com/SCAINETWORK/Official-public-repository-for-SCAI-Social-AI-Network-documentation-roadmap-and-transparency-updates
 
 ## Status
 
